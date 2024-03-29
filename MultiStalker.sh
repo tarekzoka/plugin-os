@@ -11,10 +11,4 @@ wait
 rm -f /tmp/MultiStalker.tar.gz
 echo "   UPLOADED BY  >>>>   TAREK_TT "   
 sleep 4;                                                                                                                  
-echo ". >>>>         RESTARING     <<<<"
-echo BY-TAREK-HANFY   "**********************************************************************************"
-echo
-
-wait
-
 exit 0
