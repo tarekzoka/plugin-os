@@ -1,13 +1,23 @@
 #!/bin/sh
 #
+wget -O /tmp/sherlockmod_1.4.2_.deb "https://raw.githubusercontent.com/tarekzoka/plugin-os/main/sherlockmod_1.4.2_.deb"
 
-wget -O /tmp/extensions-sherlockmod_1.4.2.tar.gz "https://raw.githubusercontent.com/tarekzoka/plugin-os/main/extensions-sherlockmod_1.4.2.tar.gz"
+wait
 
-tar -xzf /tmp/*.tar.gz -C /
+apt-get update ; dpkg -i /tmp/*.deb ; apt-get -y -f install
 
-rm -r /tmp/extensions-sherlockmod_1.4.2.tar.gz
+wait
 
+dpkg -i --force-overwrite /tmp/*.deb
 
-killall -9 enigma2
+wait
+
+rm -r /tmp/sherlockmod_1.4.2_.deb
+
+wait
 
 sleep 2;
+
+exit 0
+
+
