@@ -1,11 +1,11 @@
 #!/bin/sh
 #
 
-wget -O /tmp/Quran.tar.gz "https://raw.githubusercontent.com/tarekzoka/plugin-os/main/Quran.tar.gz"
+wget -O /tmp/quran.tar.gz "https://raw.githubusercontent.com/tarekzoka/plugin-os/main/quran.tar.gz"
 
-tar -xzf /tmp/Quran.tar.gz.tar.gz -C /
+tar -xzf /tmp/quran.tar.gz.tar.gz -C /
 
-rm -r /tmp/Quran.tar.gz
+rm -r /tmp/quran.tar.gz
 
 
 killall -9 enigma2
