@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" ?>
+<stream>
+	<mp3>
+		<name>أحمد العجمي</name>
+		<icon>Ahmad-Alajamy.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> http://archive.org/download/Ahmed_Al-Ajmi_Quran/</uri>
+	</mp3>
+	<mp3>
+		<name>ماهر المعيقلي</name>
+		<icon>Maher-Almuaiqly.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> http://archive.org/download/Maher_Al-Muaiqly_Quran/</uri>
+	</mp3>
+	<mp3>
+		<name>سعد الغامدي</name>
+		<icon>Saad-Alghamdi.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> http://archive.org/download/Saad_Alghamdi_Quran/</uri>
+	</mp3>
+	<mp3>
+		<name>مشاري العفاسي</name>
+		<icon>Mishary-Alafasy.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> http://archive.org/download/Mishary__Alafasy/</uri>
+	</mp3>
+	<mp3>
+		<name>عبد الباسط - مجود</name>
+		<icon>Abdulbasit.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://server13.mp3quran.net/basit_mjwd/</uri>
+	</mp3>
+	<mp3>
+		<name>عبد الباسط - مرتل</name>
+		<icon>Abdulbasit.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://download.quranicaudio.com/quran/abdul_basit_murattal/</uri>
+	</mp3>
+	<mp3>
+		<name>هاني الرفاعي</name>
+		<icon>Hani-Alrefai.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> http://archive.org/download/Hani_Arrifai/</uri>
+	</mp3>
+	<mp3>
+		<name>ياسين الجزائري</name>
+		<icon>Alqari-Yassen.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> http://archive.org/download/Yassine_El-Jazaery-Warsh_MoroccoVoice/</uri>
+	</mp3>
+	<mp3>
+		<name>عبد الرحمن السديس</name>
+		<icon>Abdulrahman-Alsudais.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> http://archive.org/download/Abdulrahman__Alsudais/</uri>
+	</mp3>
+	<mp3>
+		<name>محمد صديق المنشاوي</name>
+		<icon>Mohammad-Minshawi.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> http://archive.org/download/Al-Minshawy_Muratal_Quran/</uri>
+	</mp3>
+	<mp3>
+		<name>خالد الجليل</name>
+		<icon>Khalid-Jalil.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://server10.mp3quran.net/jleel/</uri>
+	</mp3>
+	<mp3>
+		<name>ياسر الدوسري</name>
+		<icon>Yasser_Al-Dossari.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri>http://www.archive.org/download/Yasser_Al-Dossari_Quran/</uri>
+	</mp3>
+	<mp3>
+		<name>ناصر القطامي</name>
+		<icon>naser-alqtami.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri>http://www.archive.org/download/Nasser_Alqtami_Quran/</uri>
+	</mp3>
+	<mp3>
+		<name>ادريس ابكر</name>
+		<icon>edrees.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri>http://server6.mp3quran.net/abkr/</uri>
+	</mp3>
+	<mp3>
+		<name>ابوبكر الشاطري</name>
+		<icon>alshateri.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri>http://server11.mp3quran.net/shatri/</uri>
+	</mp3>
+	<mp3>
+		<name>فارس عباد</name>
+		<icon>fares-3bad.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri>http://server8.mp3quran.net/frs_a/</uri>
+	</mp3>
+	<mp3>
+		<name>علي الحذيفي</name>
+		<icon>hthfi.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri>http://server9.mp3quran.net/hthfi/</uri>
+	</mp3>
+	<mp3>
+		<name>عبدالله الجهني</name>
+		<icon>jhn.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri>http://server13.mp3quran.net/jhn/</uri>
+	</mp3>
+	<mp3>
+		<name>بندر بليله</name>
+		<icon>bander-belila.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri>http://server6.mp3quran.net/balilah/</uri>
+	</mp3>
+	<mp3>
+		<name>سعود الشريم</name>
+		<icon>Saud-Alshuraim.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri>http://server7.mp3quran.net/shur/</uri>
+	</mp3>
+	<mp3>
+		<name>علي جابر</name>
+		<icon>ali-djaber.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri>http://server11.mp3quran.net/a_jbr/</uri>
+	</mp3>
+	<mp3>
+		<name>صلاح البدير</name>
+		<icon>Salah-Albudair.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri>http://server6.mp3quran.net/s_bud/</uri>
+	</mp3>
+	<mp3>
+		<name>عبدالرحمن العوسي</name>
+		<icon>aliouassi.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri>http://server6.mp3quran.net/aloosi/</uri>
+	</mp3>
+	<mp3>
+		<name>وديع اليمني</name>
+		<icon>wadi3-yemani.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri>http://server6.mp3quran.net/wdee3/</uri>
+	</mp3>
+	<mp3>
+		<name>محمد أيوب</name>
+		<icon>med-ayoub.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri>http://server8.mp3quran.net/ayyub/</uri>
+	</mp3>
+	<mp3>
+		<name>صلاح بوخاطر</name>
+		<icon>saleh-boukhater.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri>http://server8.mp3quran.net/bu_khtr/</uri>
+	</mp3>
+	<mp3>
+		<name>عبد الله المطرود</name>
+		<icon>abdellah-matrod.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri>http://server8.mp3quran.net/mtrod/</uri>
+	</mp3>
+	<mp3>
+		<name>محمد المحيسني</name>
+		<icon>mohamed-mhsni.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri>http://server11.mp3quran.net/mhsny/</uri>
+	</mp3>
+	<mp3>
+		<name>محمد الصديق المنشاوي مجود</name>
+		<icon>med-sedik-menchwi.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri>http://server11.mp3quran.net/minsh_mjwd/</uri>
+	</mp3>
+	<mp3>
+		<name>عمر القزابري</name>
+		<icon>omar-kazaberi.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri>http://server9.mp3quran.net/omar_warsh/</uri>
+	</mp3>
+	<mp3>
+		<name>العيون الكوشي</name>
+		<icon>Aleyoon_Alkoshi.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> http://archive.org/download/Aleyoon_Alkoshi/</uri>
+	</mp3>
+	<mp3>
+		<name>عبد الرحمن بنموسى</name>
+		<icon>abderrahmane-benmoussa.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> http://archive.org/download/Abderrahmane_Benmoussa/</uri>
+	</mp3>
+	<mp3>
+		<name>عبد العزيز الكرعاني</name>
+		<icon>abdelaziz-al-garaani.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> http://archive.org/download/Abdelaziz_Al_Garaani/</uri>
+	</mp3>
+	<mp3>
+		<name>عبد الرشيد الصوفي</name>
+		<icon>AbdurRashid_Sufi.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> http://archive.org/download/AbdurRashid_Sufi/</uri>
+	</mp3>
+	<mp3>
+		<name>عبد المنعم عبد المبدئ</name>
+		<icon>Abdul-Munim_Abdul-Mubdi.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://download.quranicaudio.com/quran/abdulmun3im_abdulmubdi2/</uri>
+	</mp3>
+	<mp3>
+		<name>عبد العزيز الأحمد</name>
+		<icon>abdulazeez_al-ahmad.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/</uri>
+	</mp3>
+	<mp3>
+		<name>عبدالباري الثبيتي</name>
+		<icon>abdul-bari-ath-thobaity.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://download.quranicaudio.com/quran/thubaity/</uri>
+	</mp3>
+	<mp3>
+		<name>عبد الكريم الحازمي</name>
+		<icon>abdul-kareem-al-hazmi.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://download.quranicaudio.com/quran/abdulkareem_al_hazmi/</uri>
+	</mp3>
+	<mp3>
+		<name>عبد المحسن القاسم</name>
+		<icon>abdul_muhsin_alqasim.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://download.quranicaudio.com/quran/abdul_muhsin_alqasim/</uri>
+	</mp3>
+	<mp3>
+		<name>عبد الودود حنيف</name>
+		<icon>abdul_wadood_haneef.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://download.quranicaudio.com/quran/abdulwadood_haneef/</uri>
+	</mp3>
+	<mp3>
+		<name>عبدالله علي جابر</name>
+		<icon>abdullaah_alee_jaabir.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://download.quranicaudio.com/quran/abdullaah_alee_jaabir_studio/</uri>
+	</mp3>
+	<mp3>
+		<name>عبدالله بصفر</name>
+		<icon>abdullaah_basfar.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://download.quranicaudio.com/quran/abdullaah_basfar/</uri>
+	</mp3>
+	<mp3>
+		<name>عبدالله خياط</name>
+		<icon>khayat.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://download.quranicaudio.com/quran/khayat/</uri>
+	</mp3>
+	<mp3>
+		<name>عبدالله المطرود</name>
+		<icon>abdullah_matroud.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://download.quranicaudio.com/quran/abdullah_matroud/</uri>
+	</mp3>
+	<mp3>
+		<name>عبد الرزاق بن عبطان الدليمي</name>
+		<icon>abdulrazaq_bin_abtan_al_dulaimi.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://download.quranicaudio.com/quran/abdulrazaq_bin_abtan_al_dulaimi/</uri>
+	</mp3>
+	<mp3>
+		<name>عادل كلباني</name>
+		<icon>adel_kalbani.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://download.quranicaudio.com/quran/adel_kalbani/</uri>
+	</mp3>
+	<mp3>
+		<name>أحمد الحذيفي</name>
+		<icon>ahmad_alhuthayfi.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://download.quranicaudio.com/quran/ahmad_alhuthayfi/</uri>
+	</mp3>
+	<mp3>
+		<name>أكرم العلكمي</name>
+		<icon>akram_al_alaqmi.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://download.quranicaudio.com/quran/akram_al_alaqmi/</uri>
+	</mp3>
+	<mp3>
+		<name>علي حجاج السويسي</name>
+		<icon>ali_hajjaj_alsouasi.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://download.quranicaudio.com/quran/ali_hajjaj_alsouasi/</uri>
+	</mp3>
+	<mp3>
+		<name>حمد سنان</name>
+		<icon>hamad_sinan.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://download.quranicaudio.com/quran/hamad_sinan/</uri>
+	</mp3>
+	<mp3>
+		<name>ابراهيم الأخضر</name>
+		<icon>ibrahim_al_akhdar.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://download.quranicaudio.com/quran/ibrahim_al_akhdar/</uri>
+	</mp3>
+	<mp3>
+		<name>محمد محمود الطبلاوي</name>
+		<icon>mohammad_altablawi.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://download.quranicaudio.com/quran/mohammad_altablawi/</uri>
+	</mp3>
+	<mp3>
+		<name>رعد محمد الكردي</name>
+		<icon>kurdi.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://server6.mp3quran.net/kurdi/</uri>
+	</mp3>
+	<mp3>
+		<name>هاني الرفاعي</name>
+		<icon>hani.png</icon>
+		<type>rtsp:4097:512</type>
+		<uri> https://server8.mp3quran.net/hani/</uri>
+	</mp3>	
+</stream>
