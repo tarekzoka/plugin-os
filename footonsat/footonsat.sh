@@ -1,4 +1,4 @@
-#!/bin/s
+#!/bin/sh
 #
 wget -O /tmp/footonsat_1.9-r0_all.deb "https://raw.githubusercontent.com/tarekzoka/plugin-os/main/footonsat/enigma2-plugin-extensions-footonsat_1.9-r0_all.deb"
 
