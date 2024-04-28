@@ -1,4 +1,4 @@
-#!/bin/s
+#!/bin/sh
 #
 
 wget -O /tmp/e2iplayer.tar.gz "https://raw.githubusercontent.com/tarekzoka/plugin-os/main/e2iplayer/e2iplayer.tar.gz"
