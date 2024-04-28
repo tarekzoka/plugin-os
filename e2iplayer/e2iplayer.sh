@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-wget -O /tmp/extensions-e2iplayer_2_all.deb "https://raw.githubusercontent.com/tarekzoka/plugin-os/main/e2iplayer/enigma2-plugin-extensions-e2iplayer_2_all.deb"
+wget -O /tmp/enigma2-plugin-extensions-e2iplayer_2_all "https://raw.githubusercontent.com/tarekzoka/plugin-os/main/e2iplayer/enigma2-plugin-extensions-e2iplayer_2_all.deb"
 
 wait
 
